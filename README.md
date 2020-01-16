@@ -1,4 +1,4 @@
 # helloworld
 first attemp
 
-Just my first project in gh
+Just my first project in git
